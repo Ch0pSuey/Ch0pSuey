@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Ch0pSuey
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Web Development
 - 📫 How to reach me - ChopSuey#7428 on Discord
 
 <!---
